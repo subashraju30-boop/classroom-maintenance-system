@@ -103,7 +103,7 @@ summary = f"""
 
 rows = ""
 
-    for item in data:
+for item in data:
         rows += f"""
         <tr>
             <td>{item[0]}</td>
