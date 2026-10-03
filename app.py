@@ -101,7 +101,7 @@ summary = f"""
 <p>Total: {total} | Pending: {pending} | In Progress: {progress} | Fixed: {fixed}</p>
 """
 
-    rows = ""
+rows = ""
 
     for item in data:
         rows += f"""
